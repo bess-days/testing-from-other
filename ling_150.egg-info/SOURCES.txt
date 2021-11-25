@@ -1,0 +1,9 @@
+setup.py
+conclass-webpage/__init__.py
+conclass-webpage/definitionsCode.py
+conclass-webpage/inventory.py
+conclass-webpage/main.py
+ling_150.egg-info/PKG-INFO
+ling_150.egg-info/SOURCES.txt
+ling_150.egg-info/dependency_links.txt
+ling_150.egg-info/top_level.txt
